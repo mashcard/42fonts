@@ -1,0 +1,24 @@
+/.idea
+/.vs
+*.sublime-project
+*.sublime-workspace
+/.settings
+/.ruby-gemset
+/.rvmrc
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+.DS_Store
+.AppleDouble
+.LSOverride
+$RECYCLE.BIN/
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+._*
